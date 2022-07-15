@@ -1,0 +1,28 @@
+{
+  "name": "Eyes #5202",
+  "symbol": "CLCR",
+  "description": "This collection's Metaplex collection standard NFT does not have metadata URI. If you have the update authority, you can change the picture/description on this page by updating the collection standard NFT and filling in the right metadata URI.",
+  "seller_fee_basis_points": 2000,
+  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://dweb.link/ipfs/bafybeide7tcq4x4hoonhcyaeq5ncfnoelfs235umqybz2toij5nkw6g54i/22.gif",
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Corrupted"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8CA6cwo9PpqUsDB8WU4vB5eFJYRv3cA3kYyrGy2p5iAZ",
+        "share": 100
+      }
+    ]
+  }
+}
